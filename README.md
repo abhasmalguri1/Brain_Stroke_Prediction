@@ -58,4 +58,4 @@ Thank you for your interest in the Brain Stroke Prediction project.Together, let
 ## Credits
 *Image by [iStock by Getty Images](https://www.istockphoto.com/photos/brain-stroke).*
 
-*Contributer [(https://github.com/KaushalW696)*
+*Contributer [(https://github.com/abhasmalguri1)*
